@@ -1,8 +1,5 @@
 # historic_events
-This repository offers a reusable, large data set of historic human events. Most of the events contained herein come from a Wikipedia corpus, and many additional events were manually inputted by myself (Nolan Hemmatazad). A large amount of work was put into manually verifying the accuracy of the events, but as a solitary contributor, the amount of verification likely barely scratches 10% of the overall data set.
-
-# Give a Little Bit?
-If you find this data set to be useful, or just think it's cool that it was put out there, please consider donating to the Tuvalie Kickstarter campaign at [https://www.kickstarter.com/projects/1681169925/tuvalie](https://www.kickstarter.com/projects/1681169925/tuvalie). Even a pledge of $1 would mean a lot!
+This repository offers a reusable, large data set of historic human events. Most of the events contained herein come from a Wikipedia corpus, and many additional events were manually inputted by myself (Nolan Hemmatazad). A large amount of work was put into manually verifying the accuracy of the events, but as a solitary contributor, the amount of verification likely barely scratches 10% of the overall data set. Pull requests with updates/edits are highly appreciated.
 
 # Attribution Line
 When reusing the data set presented here, please use the following attribution line:
