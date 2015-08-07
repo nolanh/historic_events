@@ -1,8 +1,8 @@
 # historic_events
-This repository offers a reusable, large data set of historic human events. Most of the events contained herein come from a Wikipedia corpus, and many additional events were manually inputted by myself (Nolan Hemmatazad). A large amount of work was put into manually verifying the accuracy of the events, but as a solitary contributor, the amount of verification likely barely scratches 10% of the overall data set. Pull requests with updates/edits are highly appreciated.
+This repository contains a large, open data set of historic events. Most of the events contained herein come from a Wikipedia corpus, and many additional events were inputted manually. Significant effort was put into verifying the accuracy of the events, but due to the small contributor base, the amount of verification likely does not exceed 10% of the overall data set. Pull requests with updates/edits are welcome and highly appreciated.
 
 # Attribution Line
-When reusing the data set presented here, please use the following attribution line:
+When reusing the historic events data set, please use the following attribution line:
 © Nolan Hemmatazad / Wikimedia Commons / [CC-BY-SA-3.0](http://creativecommons.org/licenses/by-sa/3.0/)
 
 # Formatting Details
