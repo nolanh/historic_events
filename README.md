@@ -3,7 +3,11 @@ This repository contains a large, open data set of historic events. Most of the 
 
 # Attribution Line
 When reusing the historic events data set, please use the following attribution line:
-© Nolan Hemmatazad / Wikimedia Commons / [CC-BY-SA-3.0](http://creativecommons.org/licenses/by-sa/3.0/)
+
+Historic Events Data Set © Nolan Hemmatazad / Wikimedia Commons / [CC-BY-SA-3.0](http://creativecommons.org/licenses/by-sa/3.0/)
+
+## Attribution Placement
+Generally, I don't care where you place the attribution line, so long as it's accessible from wherever your usage of the data set occurs. Inside of a README file, an "acknowledgments" page, etc. is perfectly fine.
 
 # Formatting Details
 The historic_events.tsv file contains all data set events. Each event is presented as a line of its own, and in 4 distinct pieces (tab-separated values):
