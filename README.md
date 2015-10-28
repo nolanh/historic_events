@@ -1,5 +1,5 @@
 # historic_events
-This repository contains a large, open data set of historic events. Most of the events contained herein come from a Wikipedia corpus, and many additional events were inputted manually. Significant effort was put into verifying the accuracy of the events, but due to the small contributor base, the amount of verification likely does not exceed 10% of the overall data set. Pull requests with updates/edits are welcome and highly appreciated.
+This repository contains a large (>91,000 entries), open data set of historic events. Most of the events contained herein come from a Wikipedia corpus, and many additional events were inputted manually. Significant effort was put into verifying the accuracy of the events, but due to the small contributor base, the amount of verification likely does not exceed 10% of the overall data set. Pull requests with updates/edits are welcome and highly appreciated.
 
 # Attribution Line
 When reusing the historic events data set, please use the following attribution line:
